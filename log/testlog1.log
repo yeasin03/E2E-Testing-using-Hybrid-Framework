@@ -1,0 +1,154 @@
+2022-02-14 05:14:33,301 [main] INFO ProjectName - login failed
+2022-02-14 05:21:00,481 [main] INFO ProjectName - login failed
+2022-02-14 05:52:34,196 [main] INFO ProjectName - login failed
+2022-02-14 05:56:03,833 [main] INFO ProjectName - login failed
+2022-02-15 05:26:58,763 [main] INFO ProjectName - Start Test Cases
+2022-02-15 05:28:50,101 [main] INFO ProjectName - Start Test Cases
+2022-02-15 05:41:46,665 [main] INFO ProjectName - Start Test Cases
+2022-02-15 05:44:54,982 [main] INFO ProjectName - Start Test Cases
+2022-02-15 05:44:58,103 [main] INFO ProjectName - Click on SignIN button
+2022-02-15 05:44:58,602 [main] INFO ProjectName - Enter email ID pass
+2022-02-15 06:01:45,706 [main] INFO ProjectName - Start Test Cases
+2022-02-15 06:01:47,281 [main] INFO ProjectName - Click on SignIN button
+2022-02-15 06:01:47,702 [main] INFO ProjectName - Enter email ID pass
+2022-02-15 06:01:47,769 [main] INFO ProjectName - Start Test Cases
+2022-02-15 06:01:49,113 [main] INFO ProjectName - Click on SignIN button
+2022-02-15 06:01:49,335 [main] INFO ProjectName - Enter email ID pass
+2022-02-15 06:01:49,415 [main] INFO ProjectName - Start Test Cases
+2022-02-15 06:01:50,784 [main] INFO ProjectName - Click on SignIN button
+2022-02-15 06:01:50,994 [main] INFO ProjectName - Enter email ID pass
+2022-02-15 06:03:42,795 [main] INFO ProjectName - Start Test Cases
+2022-02-15 06:03:44,224 [main] INFO ProjectName - Click on SignIN button
+2022-02-15 06:03:44,737 [main] INFO ProjectName - Enter email ID pass
+2022-02-15 06:03:44,823 [main] INFO ProjectName - Start Test Cases
+2022-02-15 06:03:48,216 [main] INFO ProjectName - Click on SignIN button
+2022-02-15 06:03:48,419 [main] INFO ProjectName - Enter email ID pass
+2022-02-15 06:03:48,506 [main] INFO ProjectName - Start Test Cases
+2022-02-15 06:03:50,387 [main] INFO ProjectName - Click on SignIN button
+2022-02-15 06:03:50,595 [main] INFO ProjectName - Enter email ID pass
+2022-02-15 06:20:34,263 [main] INFO ProjectName - Start Test Cases
+2022-02-15 06:20:35,921 [main] INFO ProjectName - Click on SignIN button
+2022-02-15 06:20:36,141 [main] INFO ProjectName - Enter email ID pass
+2022-02-15 06:20:36,210 [main] INFO ProjectName - Start Test Cases
+2022-02-15 06:20:38,061 [main] INFO ProjectName - Click on SignIN button
+2022-02-15 06:20:38,274 [main] INFO ProjectName - Enter email ID pass
+2022-02-15 06:20:38,349 [main] INFO ProjectName - Start Test Cases
+2022-02-15 06:20:40,898 [main] INFO ProjectName - Click on SignIN button
+2022-02-15 06:20:41,099 [main] INFO ProjectName - Enter email ID pass
+2022-02-16 01:25:09,791 [main] INFO ProjectName - Start Test Cases
+2022-02-16 01:25:11,615 [main] INFO ProjectName - Click on SignIN button
+2022-02-16 01:25:11,824 [main] INFO ProjectName - Enter email ID pass
+2022-02-16 01:25:11,907 [main] INFO ProjectName - Start Test Cases
+2022-02-16 01:25:13,750 [main] INFO ProjectName - Click on SignIN button
+2022-02-16 01:25:13,939 [main] INFO ProjectName - Enter email ID pass
+2022-02-16 01:25:13,995 [main] INFO ProjectName - Start Test Cases
+2022-02-16 01:25:15,813 [main] INFO ProjectName - Click on SignIN button
+2022-02-16 01:25:16,050 [main] INFO ProjectName - Enter email ID pass
+2022-02-16 01:42:08,795 [main] INFO ProjectName - Start Test Cases
+2022-02-16 01:42:10,346 [main] INFO ProjectName - Start Test Cases
+2022-02-16 01:42:13,074 [main] INFO ProjectName - Start Test Cases
+2022-02-16 01:43:01,598 [main] INFO ProjectName - Start Test Cases
+2022-02-16 01:43:03,129 [main] INFO ProjectName - Start Test Cases
+2022-02-16 01:43:05,606 [main] INFO ProjectName - Start Test Cases
+2022-02-16 01:46:35,060 [main] INFO ProjectName - Start Test Cases
+2022-02-16 01:46:36,544 [main] INFO ProjectName - Start Test Cases
+2022-02-16 01:46:38,163 [main] INFO ProjectName - Start Test Cases
+2022-02-16 01:51:56,835 [main] INFO ProjectName - Start Test Cases
+2022-02-16 01:52:00,817 [main] INFO ProjectName - Start Test Cases
+2022-02-16 01:52:05,434 [main] INFO ProjectName - Start Test Cases
+2022-02-16 01:53:39,685 [main] INFO ProjectName - Start Test Cases
+2022-02-16 01:53:44,490 [main] INFO ProjectName - Start Test Cases
+2022-02-16 01:53:48,065 [main] INFO ProjectName - Start Test Cases
+2022-02-16 01:59:24,409 [main] INFO ProjectName - Start Test Cases
+2022-02-16 02:02:02,504 [main] INFO ProjectName - Start Test Cases
+2022-02-16 02:08:06,300 [main] INFO ProjectName - Start Test Cases
+2022-02-16 03:18:32,556 [main] INFO ProjectName - verifyLogo
+2022-02-16 03:18:32,659 [main] INFO ProjectName - Logo is varified
+2022-02-16 03:18:32,675 [main] INFO ProjectName - verifyTitle
+2022-02-16 03:18:33,376 [main] INFO ProjectName - Start Test Cases
+2022-02-16 03:18:36,676 [main] INFO ProjectName - User Name Entered
+2022-02-16 03:18:36,752 [main] INFO ProjectName - Password Entered
+2022-02-16 03:19:51,473 [main] INFO ProjectName - verifyLogo
+2022-02-16 03:19:51,550 [main] INFO ProjectName - Logo is varified
+2022-02-16 03:19:51,565 [main] INFO ProjectName - verifyTitle
+2022-02-16 03:19:52,175 [main] INFO ProjectName - Start Test Cases
+2022-02-16 03:19:55,490 [main] INFO ProjectName - User Name Entered
+2022-02-16 03:19:55,570 [main] INFO ProjectName - Password Entered
+2022-02-16 03:22:33,304 [main] INFO ProjectName - verifyLogo
+2022-02-16 03:22:33,403 [main] INFO ProjectName - Logo is varified
+2022-02-16 03:22:33,415 [main] INFO ProjectName - verifyTitle
+2022-02-16 03:22:33,424 [main] INFO ProjectName - Title is Varified
+2022-02-16 03:22:34,034 [main] INFO ProjectName - Start Test Cases
+2022-02-16 03:22:39,836 [main] INFO ProjectName - User Name Entered
+2022-02-16 03:22:39,920 [main] INFO ProjectName - Password Entered
+2022-02-16 04:50:18,126 [main] INFO ProjectName - verifyLogo
+2022-02-16 04:50:18,211 [main] INFO ProjectName - Logo is varified
+2022-02-16 04:50:18,225 [main] INFO ProjectName - verifyTitle
+2022-02-16 04:50:18,232 [main] INFO ProjectName - Title is Varified
+2022-02-16 04:50:18,800 [main] INFO ProjectName - Start Test Cases
+2022-02-16 04:50:21,082 [main] INFO ProjectName - Start whishlist Test Case
+2022-02-16 04:50:27,460 [main] INFO ProjectName - Varifi WishList
+2022-02-16 04:55:56,924 [main] INFO ProjectName - verifyLogo
+2022-02-16 04:55:57,007 [main] INFO ProjectName - Logo is varified
+2022-02-16 04:55:57,018 [main] INFO ProjectName - verifyTitle
+2022-02-16 04:55:57,026 [main] INFO ProjectName - Title is Varified
+2022-02-16 04:55:57,587 [main] INFO ProjectName - Start Test Cases
+2022-02-16 04:56:03,578 [main] INFO ProjectName - Start whishlist Test Case
+2022-02-16 05:06:19,286 [main] INFO ProjectName - verifyLogo
+2022-02-16 05:06:19,380 [main] INFO ProjectName - Logo is varified
+2022-02-16 05:06:24,656 [main] INFO ProjectName - verifyTitle
+2022-02-16 05:06:30,039 [main] INFO ProjectName - Start Test Cases
+2022-02-16 05:06:44,140 [main] INFO ProjectName - Start whishlist Test Case
+2022-02-16 05:06:52,186 [main] INFO ProjectName - Varifi WishList
+2022-02-16 05:09:55,237 [main] INFO ProjectName - verifyLogo
+2022-02-16 05:09:55,314 [main] INFO ProjectName - Logo is varified
+2022-02-16 05:10:00,262 [main] INFO ProjectName - verifyTitle
+2022-02-16 05:10:05,966 [main] INFO ProjectName - Start Test Cases
+2022-02-16 05:10:16,139 [main] INFO ProjectName - Start whishlist Test Case
+2022-02-16 05:10:21,946 [main] INFO ProjectName - Varifi WishList
+2022-02-16 06:33:08,124 [main] INFO ProjectName - verifyLogo
+2022-02-16 06:33:08,215 [main] INFO ProjectName - Logo is varified
+2022-02-16 06:33:12,818 [main] INFO ProjectName - verifyTitle
+2022-02-16 06:33:18,407 [main] INFO ProjectName - Start Test Cases
+2022-02-16 06:33:30,096 [main] INFO ProjectName - Start whishlist Test Case
+2022-02-16 06:33:37,751 [main] INFO ProjectName - Varifi WishList
+2022-02-16 06:38:36,949 [main] INFO ProjectName - verifyLogo
+2022-02-16 06:38:37,048 [main] INFO ProjectName - Logo is varified
+2022-02-16 06:38:41,889 [main] INFO ProjectName - verifyTitle
+2022-02-16 06:38:47,301 [main] INFO ProjectName - Start Test Cases
+2022-02-16 06:39:00,914 [main] INFO ProjectName - Start whishlist Test Case
+2022-02-16 06:39:09,930 [main] INFO ProjectName - varifi orderHistoryandDetailsTest
+2022-02-16 06:39:09,930 [main] INFO ProjectName - Varifi WishList
+2022-02-16 06:41:56,082 [main] INFO ProjectName - verifyLogo
+2022-02-16 06:41:56,190 [main] INFO ProjectName - Logo is varified
+2022-02-16 06:42:00,744 [main] INFO ProjectName - verifyTitle
+2022-02-16 06:44:37,897 [main] INFO ProjectName - verifyLogo
+2022-02-16 06:44:38,017 [main] INFO ProjectName - Logo is varified
+2022-02-16 06:44:38,021 [main] INFO ProjectName - verifyTitle
+2022-02-16 06:44:38,030 [main] INFO ProjectName - Title is Varified
+2022-02-16 06:52:12,789 [main] INFO ProjectName - verifyLogo
+2022-02-16 06:52:12,899 [main] INFO ProjectName - Logo is varified
+2022-02-16 06:52:17,613 [main] INFO ProjectName - verifyTitle
+2022-02-16 07:08:37,576 [main] INFO ProjectName - verifyLogo
+2022-02-16 07:08:37,683 [main] INFO ProjectName - Logo is varified
+2022-02-16 07:08:43,059 [main] INFO ProjectName - verifyTitle
+2022-02-16 07:26:33,170 [main] INFO ProjectName - verifyLogo
+2022-02-16 07:26:33,290 [main] INFO ProjectName - Logo is varified
+2022-02-16 07:26:47,100 [main] INFO ProjectName - verifyTitle
+2022-02-16 07:26:47,117 [main] INFO ProjectName - Title is Varified
+2022-02-16 07:28:04,815 [main] INFO ProjectName - verifyLogo
+2022-02-16 07:28:30,191 [main] INFO ProjectName - verifyTitle
+2022-02-16 07:28:30,202 [main] INFO ProjectName - Title is Varified
+2022-02-16 07:28:45,998 [main] INFO ProjectName - Start Test Cases
+2022-02-16 07:29:41,684 [main] INFO ProjectName - Start order History and DetailsTest Test Case
+2022-02-16 07:30:20,763 [main] INFO ProjectName - varifi orderHistoryandDetailsTest
+2022-02-16 07:30:34,375 [main] INFO ProjectName - Start whishlist Test Case
+2022-02-16 07:32:10,072 [main] INFO ProjectName - verifyLogo
+2022-02-16 07:37:28,088 [main] INFO ProjectName - verifyLogo
+2022-02-16 07:37:28,162 [main] INFO ProjectName - Logo is varified
+2022-02-16 07:37:45,074 [main] INFO ProjectName - verifyTitle
+2022-02-16 07:37:45,083 [main] INFO ProjectName - Title is Varified
+2022-02-16 07:37:58,520 [main] INFO ProjectName - Start Test Cases
+2022-02-16 07:38:47,498 [main] INFO ProjectName - Start order History and DetailsTest Test Case
+2022-02-16 07:39:22,468 [main] INFO ProjectName - varifi orderHistoryandDetailsTest
+2022-02-16 07:39:24,942 [main] INFO ProjectName - Start whishlist Test Case

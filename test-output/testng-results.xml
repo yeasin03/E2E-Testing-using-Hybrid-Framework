@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="49725" started-at="2022-02-20T12:49:51Z" finished-at="2022-02-20T12:50:41Z">
+    <groups>
+      <group name="Sanity">
+        <method signature="TC_HomePageTest.verifyLogo()[pri:0, instance:com.myShop.testcases.TC_HomePageTest@7c711375]" name="verifyLogo" class="com.myShop.testcases.TC_HomePageTest"/>
+        <method signature="TC_HomePageTest.verifyTitle()[pri:0, instance:com.myShop.testcases.TC_HomePageTest@7c711375]" name="verifyTitle" class="com.myShop.testcases.TC_HomePageTest"/>
+        <method signature="TC_LoginTest.homeLogin(java.lang.String, java.lang.String)[pri:0, instance:com.myShop.testcases.TC_LoginTest@57cf54e1]" name="homeLogin" class="com.myShop.testcases.TC_LoginTest"/>
+        <method signature="TC_MyAccountPage.wishListTest(java.lang.String, java.lang.String)[pri:0, instance:com.myShop.testcases.TC_MyAccountPage@5a56cdac]" name="wishListTest" class="com.myShop.testcases.TC_MyAccountPage"/>
+      </group> <!-- Sanity -->
+      <group name="Smoke">
+        <method signature="TC_HomePageTest.verifyLogo()[pri:0, instance:com.myShop.testcases.TC_HomePageTest@7c711375]" name="verifyLogo" class="com.myShop.testcases.TC_HomePageTest"/>
+        <method signature="TC_HomePageTest.verifyTitle()[pri:0, instance:com.myShop.testcases.TC_HomePageTest@7c711375]" name="verifyTitle" class="com.myShop.testcases.TC_HomePageTest"/>
+        <method signature="TC_LoginTest.homeLogin(java.lang.String, java.lang.String)[pri:0, instance:com.myShop.testcases.TC_LoginTest@57cf54e1]" name="homeLogin" class="com.myShop.testcases.TC_LoginTest"/>
+        <method signature="TC_MyAccountPage.wishListTest(java.lang.String, java.lang.String)[pri:0, instance:com.myShop.testcases.TC_MyAccountPage@5a56cdac]" name="wishListTest" class="com.myShop.testcases.TC_MyAccountPage"/>
+      </group> <!-- Smoke -->
+    </groups>
+    <test name="Smoke" duration-ms="49725" started-at="2022-02-20T12:49:51Z" finished-at="2022-02-20T12:50:41Z">
+      <class name="com.myShop.testcases.TC_MyAccountPage">
+        <test-method status="PASS" signature="launchApp()[pri:0, instance:com.myShop.testcases.TC_MyAccountPage@5a56cdac]" name="launchApp" is-config="true" duration-ms="10420" started-at="2022-02-20T13:49:52Z" finished-at="2022-02-20T13:50:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApp -->
+        <test-method status="PASS" signature="wishListTest(java.lang.String, java.lang.String)[pri:0, instance:com.myShop.testcases.TC_MyAccountPage@5a56cdac]" name="wishListTest" duration-ms="8087" started-at="2022-02-20T13:50:02Z" data-provider="credentials" finished-at="2022-02-20T13:50:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[hello@xyz.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[asdf54321]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wishListTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.myShop.testcases.TC_MyAccountPage@5a56cdac]" name="tearDown" is-config="true" duration-ms="1128" started-at="2022-02-20T13:50:10Z" finished-at="2022-02-20T13:50:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.myShop.testcases.TC_MyAccountPage -->
+      <class name="com.myShop.testcases.TC_LoginTest">
+        <test-method status="PASS" signature="launchApp()[pri:0, instance:com.myShop.testcases.TC_LoginTest@57cf54e1]" name="launchApp" is-config="true" duration-ms="5137" started-at="2022-02-20T13:50:24Z" finished-at="2022-02-20T13:50:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApp -->
+        <test-method status="PASS" signature="homeLogin(java.lang.String, java.lang.String)[pri:0, instance:com.myShop.testcases.TC_LoginTest@57cf54e1]" name="homeLogin" duration-ms="10573" started-at="2022-02-20T13:50:29Z" data-provider="credentials" finished-at="2022-02-20T13:50:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[hello@xyz.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[asdf54321]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homeLogin -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.myShop.testcases.TC_LoginTest@57cf54e1]" name="tearDown" is-config="true" duration-ms="1301" started-at="2022-02-20T13:50:40Z" finished-at="2022-02-20T13:50:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.myShop.testcases.TC_LoginTest -->
+      <class name="com.myShop.testcases.TC_HomePageTest">
+        <test-method status="PASS" signature="launchApp()[pri:0, instance:com.myShop.testcases.TC_HomePageTest@7c711375]" name="launchApp" is-config="true" duration-ms="5355" started-at="2022-02-20T13:50:11Z" finished-at="2022-02-20T13:50:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApp -->
+        <test-method status="PASS" signature="verifyLogo()[pri:0, instance:com.myShop.testcases.TC_HomePageTest@7c711375]" name="verifyLogo" duration-ms="136" started-at="2022-02-20T13:50:17Z" finished-at="2022-02-20T13:50:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogo -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.myShop.testcases.TC_HomePageTest@7c711375]" name="tearDown" is-config="true" duration-ms="947" started-at="2022-02-20T13:50:17Z" finished-at="2022-02-20T13:50:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="launchApp()[pri:0, instance:com.myShop.testcases.TC_HomePageTest@7c711375]" name="launchApp" is-config="true" duration-ms="5113" started-at="2022-02-20T13:50:18Z" finished-at="2022-02-20T13:50:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApp -->
+        <test-method status="PASS" signature="verifyTitle()[pri:0, instance:com.myShop.testcases.TC_HomePageTest@7c711375]" name="verifyTitle" duration-ms="22" started-at="2022-02-20T13:50:23Z" finished-at="2022-02-20T13:50:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTitle -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.myShop.testcases.TC_HomePageTest@7c711375]" name="tearDown" is-config="true" duration-ms="960" started-at="2022-02-20T13:50:23Z" finished-at="2022-02-20T13:50:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.myShop.testcases.TC_HomePageTest -->
+    </test> <!-- Smoke -->
+  </suite> <!-- Suite -->
+</testng-results>

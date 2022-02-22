@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="com.myShop.utility.Reporting"/>
+  </listeners>
+  <test name="Smoke(failed)">
+    <groups>
+      <run>
+        <include name="Smoke"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="com.myShop.testcases.TC_MyAccountPage">
+        <methods>
+          <include name="wishListTest" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- com.myShop.testcases.TC_MyAccountPage -->
+      <class name="com.myShop.testcases.TC_LoginTest">
+        <methods>
+          <include name="homeLogin" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- com.myShop.testcases.TC_LoginTest -->
+      <class name="com.myShop.testcases.TC_HomePageTest">
+        <methods>
+          <include name="verifyLogo"/>
+          <include name="verifyTitle"/>
+        </methods>
+      </class> <!-- com.myShop.testcases.TC_HomePageTest -->
+    </classes>
+  </test> <!-- Smoke(failed) -->
+</suite> <!-- Failed suite [Suite] -->

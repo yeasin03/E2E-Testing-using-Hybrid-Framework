@@ -1,0 +1,64 @@
+1.Update Project Name and Package name according to your project
+2.update config.properties file - > e.g base url , admin ID, pass etc
+3.Add your base class in Base Package( src/main/java => com.***.)
+4.Add your page object classes in your pageObject package
+5.Add your test cases classes in src/test/java => com.***.testcases package
+
+
+
+
+
+
+
+
+
+1. DataDriven Testing and DataProvider
+================================================================================
+
+-->Add/Create ExcelLibrary in utility package.(Allready added)
+
+-->Create a Folder and add TestData.xlxs in that.
+
+-->Create a package for DataProvider and add DataProvider class there 
+and create the object of ExcelLibrary Class
+
+-->Add the DataProvider methods 
+
+-->Call the DataProvider methods from testcases
+
+
+
+2.
+
+
+To attach the screenshot in extent report
+-->Add/Create a Listener Class -- ListenerClass
+
+-->To call the listener Add the below listener (inside suite tag) 
+setting in testng.xml
+
+<listeners>
+<listener class-name="com.Project.util.ListenerClass"></listener>
+</listeners> 
+
+
+
+# FrameworkDesign
+All the necessary components, plugins, files, packages, reportings are added to this empty project. 
+The main purpose of this project is whenever you want to start a new project just take it to your
+local update few things according to documentation then your framework skeleton will be ready 
+within few minutes. It will save your lot of time.
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+<listeners>
+	<listener class-name="com.myShop.utility.Reporting" />
+</listeners>
+  <test name="Sanity">
+  <test name="Sanity">
+  <groups>
+			<run>
+				<include name="Sanity"></include>
+			</run>
+		</groups>
+    <classes>
+      <class name="com.myShop.testcases.TC_MyAccountPage"/>
+      <class name="com.myShop.testcases.TC_EndToEndTest"/>
+      <class name="com.myShop.testcases.TC_AddToCartTest"/>
+      <class name="com.myShop.testcases.TC_HomePageTest"/>
+      <class name="com.myShop.testcases.TC_LoginTest"/>
+      <class name="com.myShop.testcases.TC_OrderPage"/>
+      <class name="com.myShop.base.Base"/>
+      <class name="com.myShop.testcases.TC_SearchResultPageTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
