@@ -4,14 +4,6 @@
 4.Add your page object classes in your pageObject package
 5.Add your test cases classes in src/test/java => com.***.testcases package
 
-
-
-
-
-
-
-
-
 1. DataDriven Testing and DataProvider
 ================================================================================
 
@@ -26,10 +18,7 @@ and create the object of ExcelLibrary Class
 
 -->Call the DataProvider methods from testcases
 
-
-
 2.
-
 
 To attach the screenshot in extent report
 -->Add/Create a Listener Class -- ListenerClass
@@ -44,10 +33,8 @@ setting in testng.xml
 
 
 # FrameworkDesign
-All the necessary components, plugins, files, packages, reportings are added to this empty project. 
-The main purpose of this project is whenever you want to start a new project just take it to your
-local update few things according to documentation then your framework skeleton will be ready 
-within few minutes. It will save your lot of time.
+All the necessary components, plugins, files, packages, reportings are added to this  project. 
+The main purpose of this project is to understand how to automate E2E testing, implement OOP concept, achieve interface and abstraction, Extent reports, Hybrid Framework design from scratch, parameterization and grouping testcases for Sanity, Smoke and Regression Tesing
 
 
 
